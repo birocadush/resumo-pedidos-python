@@ -1,4 +1,4 @@
-# Resumo de Pedidos em Python
+# Resumo de Pedidos em Python/fiz na brincadeira
 
 Script simples que:
 - conta pedidos pagos e pendentes
